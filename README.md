@@ -17,9 +17,7 @@ sendo a primeira parcela a ser paga um mês após a data do contrato, a segunda 
 meses após o contrato e assim por diante. Mostrar os dados das parcelas na tela.
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Exemplo
 <a href="https://ibb.co/Fz5BGTZ">
 <img src="https://i.ibb.co/sqKFLYx/exemplo.png" alt="exemplo" border="0" /></a>
 
